@@ -21,7 +21,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("https://www.google.nl/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png");
+  background-image: url("background.jpg");
   background-size: cover;
   height: 100%;
 }
